@@ -8,5 +8,12 @@ body {
 .slide {
   padding-top: 40px;
   margin: 0 auto;
-  width: 75vw;
+  width: 70vw;
+}
+
+.character-box {
+  height: 30px;
+  width: 30px;
+  border: 1px solid black;
+  flex-wrap: wrap;
 }
