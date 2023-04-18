@@ -1,0 +1,12 @@
+body {
+  background-image: url(pxfuel.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.slide {
+  padding-top: 40px;
+  margin: 0 auto;
+  width: 75vw;
+}
